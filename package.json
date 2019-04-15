@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "dating app",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmkchen/friend-finder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "kathy chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xmkchen/friend-finder/issues"
+  },
+  "homepage": "https://github.com/xmkchen/friend-finder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
