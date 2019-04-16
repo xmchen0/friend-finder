@@ -1,3 +1,12 @@
+/* --------------------------- *\
+|             U of T            |
+|      Coding Bootcamp 2019     |
+|          Friend Finder        |
+|                               |
+|      Template courtesy of:    |
+|              Ahmed            |
+\* --------------------------- */
+
 // ===============================================================================
 // DATA
 // Below data will hold all of the friend profile.

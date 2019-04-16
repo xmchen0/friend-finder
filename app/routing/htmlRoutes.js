@@ -1,3 +1,12 @@
+/* --------------------------- *\
+|             U of T            |
+|      Coding Bootcamp 2019     |
+|          Friend Finder        |
+|                               |
+|      Template courtesy of:    |
+|              Ahmed            |
+\* --------------------------- */
+
 // ===============================================================================
 // DEPENDENCIES
 // We need to include the path package to get the correct file path for our html

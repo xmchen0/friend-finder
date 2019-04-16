@@ -1,3 +1,12 @@
+/* --------------------------- *\
+|             U of T            |
+|      Coding Bootcamp 2019     |
+|          Friend Finder        |
+|                               |
+|      Template courtesy of:    |
+|              Ahmed            |
+\* --------------------------- */
+
 // ==============================================================================
 // DEPENDENCIES
 // Series of npm packages that we will use to give our server useful functionality
