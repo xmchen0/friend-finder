@@ -179,7 +179,7 @@
     </div>
 
     <!-- Modal -->
-    <div id="results-modal" class="modal fade" role="dialog">
+    <div id="resultsModal" class="modal fade" role="dialog">
         <div class="modal-dialog">
 
             <!-- Modal content-->
@@ -189,12 +189,12 @@
                     <h2 class="modal-title"><strong>Best Match</strong></h2>
                 </div>
                 <div class="modal-body">
-                    <h2 id="match-name"></h2>
-                    <img id="match-img"
+                    <h2 id="matchName"></h2>
+                    <img id="matchImg"
                         src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg" alt="">
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" id="close-modal" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
             </div>
 
@@ -264,16 +264,17 @@
                         $("#q10").val()
                     ]
                 };
+                var currentURL = window.location.origin;
 
                 // AJAX post the data to the friends API.
                 $.post("/api/friends", userData, function (data) {
 
                     // Grab the result from the AJAX post so that the best match's name and photo are displayed.
-                    $("#match-name").text(data.name);
-                    $("#match-img").attr("src", data.photo);
+                    $("#matchName").text(data.name);
+                    $("#matchImg").attr("src", data.photo);
 
                     // Show the modal with the best match
-                    $("#results-modal").modal("toggle");
+                    $("#resultsModal").modal("toggle");
 
                 });
             } else {

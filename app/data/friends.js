@@ -17,7 +17,7 @@
 var friendProfile = [
     {
         "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
         "scores": [
             5,
             1,
@@ -28,6 +28,39 @@ var friendProfile = [
             2,
             5,
             4,
+            1
+        ]
+    },
+
+    {
+        "name": "Mr Bean",
+        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "Mr Potato",
+        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "scores": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
             1
         ]
     }
