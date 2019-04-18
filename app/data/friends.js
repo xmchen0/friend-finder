@@ -17,7 +17,7 @@
 var friendProfile = [
     {
         "name": "Ahmed",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
         "scores": [
             5,
             1,
@@ -31,37 +31,100 @@ var friendProfile = [
             1
         ]
     },
-
     {
-        "name": "Mr Bean",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "name": "Scooby-Doo",
+        "photo": "https://media.giphy.com/media/J0jU16H81S13y/giphy.gif",
         "scores": [
             5,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
             5,
             5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            5
+            1
         ]
     },
     {
-        "name": "Mr Potato",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "name": "Shaggy",
+        "photo": "https://media.giphy.com/media/z5ihcoNDTaQ2Q/giphy.gif",
+        "scores": [
+            4,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "Velma",
+        "photo": "https://media.giphy.com/media/l4pTibO1cY4d5aeyI/giphy-downsized-large.gif",
+        "scores": [
+            2,
+            1,
+            1,
+            5,
+            5,
+            1,
+            3,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "name": "Daphne",
+        "photo": "https://media.giphy.com/media/l4pTibO1cY4d5aeyI/giphy-downsized-large.gif",
         "scores": [
             1,
             1,
             1,
             1,
             1,
+            5,
             1,
             1,
+            3,
+            1
+        ]
+    },
+    {
+        "name": "Fred",
+        "photo": "https://media.giphy.com/media/R6NM7iESjnXdS/giphy.gif",
+        "scores": [
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            5,
             1,
             1,
             1
+        ]
+    },
+    {
+        "name": "Scrappy-Doo",
+        "photo": "https://media.giphy.com/media/1BdrkIeClrTbKablFf/giphy.gif",
+        "scores": [
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            5
         ]
     }
 ];
