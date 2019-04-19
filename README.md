@@ -18,6 +18,8 @@ Download zip file or Git Clone repository will get you a copy of the project up 
 
 ## Document Organisation
 
+### File directory
+
      FriendFinder
         - .gitignore
         - app
@@ -32,6 +34,30 @@ Download zip file or Git Clone repository will get you a copy of the project up 
         - node_modules
         - package.json
         - server.js
+
+### Data storage
+
+Saved application's data in `app/data/friends.js` as an array of objects.
+
+```
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+}
+```
+
 
 ## Algorithm by Edward
 
