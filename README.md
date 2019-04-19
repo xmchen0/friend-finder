@@ -78,7 +78,11 @@ Saved application's data in `app/data/friends.js` as an array of objects.
 
 ### Built With
 
+* [HTML](https://en.wikipedia.org/wiki/HTML) - Markup language for website
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Presentation of markup language
 * [JavaScript](http://www.dropwizard.io/1.0.2/docs/) - Language used
+* [Bootstrap](https://getbootstrap.com/) - Website responsiveness
+* [jQuery](https://jquery.com/) - JavaScript library
 * [Express](https://www.npmjs.com/package/express) - Node.js web application framework
 * [Path](https://www.npmjs.com/package/path) - Working with directories and file paths
 * [Node.js](https://nodejs.org/en/) - Command-line applications
