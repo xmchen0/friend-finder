@@ -4,7 +4,13 @@ This full-stack site will take in results from users' surveys, then compare thei
 
 ## Preview
 
+### Survey
+
 <a href="http://recordit.co/EZjTnReEdd.gif"><img src="https://media.giphy.com/media/Z9assXod9YOUGja1s5/giphy.gif" border="0"></a>
+
+### Best match result
+
+<a href="http://g.recordit.co/gkgxlbfgNX.gif"><img src="https://media.giphy.com/media/dUfzb2ejNhDt7SYlJF/giphy.gif" border="0"></a>
 
 ## Link
 
@@ -18,7 +24,7 @@ Download zip file or Git Clone repository will get you a copy of the project up 
 
 ## Document Organisation
 
-### File directory
+### File directory structure
 
      FriendFinder
         - .gitignore
